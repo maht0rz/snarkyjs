@@ -1,0 +1,3 @@
+// @generated this file is auto-generated - don't edit it directly
+export * from '../parties-leaves-json.js';
+//# sourceMappingURL=parties-json.js.map
